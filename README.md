@@ -1,2 +1,2 @@
 # findFileExcludeSomeFoldersLinux
-# Program to find file recursively in folders and excluding some folders
+# Program to search for file recursively in folders and excluding some folders
